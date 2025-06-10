@@ -1,4 +1,4 @@
-# Globalist Socialism & Poso Capitalism
+# Post-socialist Capitalism
 
 Assets to accompany the book "Post-socialist Capitalism".
 
