@@ -1,5 +1,5 @@
 #############################
-#      Code to Accompany    #
+#     Code to Accompany     #
 # Post-socialist Capitalism #
 #                           #
 # (c) 2023, 2025            #
